@@ -1,4 +1,3 @@
-# Cnic_Text_Detection
 # SED & AWK Practice Problem
 
 ## Problem Statement
